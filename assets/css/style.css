@@ -15,6 +15,12 @@ a {
 
 p {
     font-size: 16px;
+    color:#ffffff;
+}
+
+h3 {
+    text-align: center;
+    color:#ffffff
 }
 /* Class Selectors */
 .header {
@@ -27,6 +33,7 @@ p {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+
 }
 
 .header h1 .seo {
