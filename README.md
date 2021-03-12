@@ -1,4 +1,11 @@
 # Horiseon-Code-Refractor
+## Deployed Site
+
+--
+## Deployed Link
+[Deployed Site]: ((https://vharris113.github.io/Horiseon-Code-Refractor/))
+--
+## Description
 <!-- The CSS held the bulk of the issues I'm finding. A lot of the code is jumbled together and written out, very redundant. I was able to put similarly formatted selectors together, so they'd be formatted the same.
 
 I also added non-coding lines to show division and organization with the different selectors.
@@ -7,6 +14,6 @@ For the HTML, I changed the website title to Horiseon. There was also a missing 
 
 I also turned the final paragraph from a <p> to a <p2>, so the color I changed the original paragraph in CSS wouldn't be white. That way, it can show up easily on the background.
 
-[Deployed Site](https://vharris113.github.io/Horiseon-Code-Refractor/)
+
 
 
