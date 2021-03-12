@@ -27,7 +27,8 @@ h1 {
 
 h3 {
     text-align: center;
-    color:#ffffff
+    color:#ffffff;
+    margin-bottom: 10px;
 }
 
 ul {
@@ -40,6 +41,7 @@ li {
     display: inline-block;
     margin-left: 25px;
 }
+
 
 /* Class Selectors */
 .header {
@@ -157,7 +159,4 @@ li {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
-    font-size: 20px;
-}
+/* .footer li was deleted for redundancy */
