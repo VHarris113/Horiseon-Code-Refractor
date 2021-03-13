@@ -1,7 +1,7 @@
 # Horiseon-Code-Refractor
 ## Deployed Site Screenshot
 
-![Portfolio Site]:(link)
+![Portfolio Site]:(C:\Users\vnh13\gt\homework\Horiseon-Code-Refractor\assets\images\Horiseon Webpage.png)
 
 --
 ## Deployed Link
