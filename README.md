@@ -1,7 +1,7 @@
 # Horiseon-Code-Refractor
 ## Deployed Site Screenshot
 
-![Portfolio Site](assets\images\HoriseonWebpage.png)
+![Portfolio Site](https://github.com/VHarris113/Horiseon-Code-Refractor/blob/main/assets/images/HoriseonWebpage.png?raw=true)
 
 --
 ## Site Link Below
